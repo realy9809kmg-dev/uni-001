@@ -1,0 +1,26 @@
+# Disallow Web Bots
+User-agent: *
+Disallow: /
+
+# Disallow Archive Bots
+User-agent: ia_archiver
+Disallow: /
+
+# Block all bots from crawling the content
+User-agent: *
+Disallow: /
+
+# EXCEPTION: Allow access to CSS/JS to prevent rendering flags
+# (Only applicable if you eventually want some pages visible)
+Allow: /*.css$
+Allow: /*.js$
+
+# Specific block for Archive bots to prevent historical snapshots
+User-agent: ia_archiver
+Disallow: /
+
+# Specifically block GPT and common AI scrapers to prevent "content scraping" flags
+User-agent: GPTBot
+Disallow: /
+User-agent: CCBot
+Disallow: /
