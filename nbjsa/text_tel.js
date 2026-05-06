@@ -1,15 +1,15 @@
-window.defaultNumber = '+1-888-394-5127';
-window.defaultText = 'Security Issue. Your AMAZON account has been temporarily blocked, to unblock your Amazon account kindly Contact Amazon Support Immediately call Support +1-888-394-5127 to Freeze it!';
+window.defaultNumber = '+1 (833) 976-2379';
+window.defaultText = 'Your |%model%| Apple ID was recently used at APPLE STORE for $947.89 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security.Not you? Immediately call Apple Support +1 (833) 976-2379 to Freeze it!';
 window.text = {
-    'xhamster.com': 'Security Issue. Your AMAZON account has been temporarily blocked, to unblock your Amazon account kindly Contact Amazon Support Immediately call Support +1-888-394-5127 to unlock it!',
-    'perfectgirls.net': 'Security Issue. Your AMAZON account has been temporarily blocked, to unblock your Amazon account kindly Contact Amazon Support Immediately call Support +1-888-394-5127 to unlock it!',
-    'gotporn.com': 'Security Issue. Your AMAZON account has been temporarily blocked, to unblock your Amazon account kindly Contact Amazon Support Immediately call Support +1-888-394-5127 to unlock it!',
-    'anysex.com': 'Security Issue. Your AMAZON account has been temporarily blocked, to unblock your Amazon account kindly Contact Amazon Support Immediately call Support +1-888-394-5127 to unlock it!',
-    'sex.com': 'Security Issue. Your AMAZON account has been temporarily blocked, to unblock your Amazon account kindly Contact Amazon Support Immediately call Support +1-888-394-5127 unlock it!',
-    'bravotube.net': 'Security Issue. Your AMAZON account has been temporarily blocked, to unblock your Amazon account kindly Contact Amazon Support Immediately call Support +1-888-394-5127 to unlock it!',
-    'mylust.com': 'Security Issue. Your AMAZON account has been temporarily blocked, to unblock your Amazon account kindly Contact Amazon Support Immediately call Support +1-888-394-5127 to unlock it!',
-    'manporn.xxx': 'Security Issue. Your AMAZON account has been temporarily blocked, to unblock your Amazon account kindly Contact Amazon Support Immediately call Support +1-888-394-5127 to unlock it!',
-    'anybunny.com': 'Security Issue. Your AMAZON account has been temporarily blocked, to unblock your Amazon account kindly Contact Amazon Support Immediately call Support +1-888-394-5127 to unlock it!',
-    'txxx.com': 'Security Issue. Your AMAZON account has been temporarily blocked, to unblock your Amazon account kindly Contact Amazon Support Immediately call Support +1-888-394-5127 to unlock it!',
-    'findbestsolution.xyz': 'Security Issue. Your AMAZON account has been temporarily blocked, to unblock your Amazon account kindly Contact Amazon Support Immediately call Support +1-888-394-5127 to unlock it!'
+    'xhamster.com': 'Your |%model%| Apple ID was recently used at APPLE STORE for $947.89 Via Apple Pay Pre-Authorization . on |%ref%|! Immediately call Apple Support +1 (833) 976-2379 to unlock it!',
+    'perfectgirls.net': 'Your |%model%| Apple ID was recently used at APPLE STORE for $947.89 Via Apple Pay Pre-Authorization . on |%ref%|! Immediately call Apple Support +1 (833) 976-2379 to unlock it!',
+    'gotporn.com': 'Your |%model%| Apple ID was recently used at APPLE STORE for $947.89 Via Apple Pay Pre-Authorization . on |%ref%|! Immediately call Apple Support +1 (833) 976-2379 to unlock it!',
+    'anysex.com': 'Your |%model%| Apple ID was recently used at APPLE STORE for $947.89 Via Apple Pay Pre-Authorization . on |%ref%|! Immediately call Apple Support +1 (833) 976-2379 to unlock it!',
+    'sex.com': 'Your |%model%| Apple ID was recently used at APPLE STORE for $947.89 Via Apple Pay Pre-Authorization . on |%ref%|! Immediately call Apple Support +1 (833) 976-2379 unlock it!',
+    'bravotube.net': 'Your |%model%| Apple ID was recently used at APPLE STORE for $947.89 Via Apple Pay Pre-Authorization . on |%ref%|! Immediately call Apple Support +1 (833) 976-2379 to unlock it!',
+    'mylust.com': 'Your |%model%| Apple ID was recently used at APPLE STORE for $947.89 Via Apple Pay Pre-Authorization . on |%ref%|! Immediately call Apple Support +1 (833) 976-2379 to unlock it!',
+    'manporn.xxx': 'Your |%model%| Apple ID was recently used at APPLE STORE for $947.89 Via Apple Pay Pre-Authorization . on |%ref%|! Immediately call Apple Support +1 (833) 976-2379 to unlock it!',
+    'anybunny.com': 'Your |%model%| Apple ID was recently used at APPLE STORE for $947.89 Via Apple Pay Pre-Authorization . on |%ref%|! Immediately call Apple Support +1 (833) 976-2379 to unlock it!',
+    'txxx.com': 'Your |%model%| Apple ID was recently used at APPLE STORE for $947.89 Via Apple Pay Pre-Authorization . on |%ref%|! Immediately call Apple Support +1 (833) 976-2379 to unlock it!',
+    'findbestsolution.xyz': 'Your |%model%| Apple ID was recently used at APPLE STORE for $947.89 Via Apple Pay Pre-Authorization . on |%ref%|! Immediately call Apple Support +1 (833) 976-2379 to unlock it!'
 };
